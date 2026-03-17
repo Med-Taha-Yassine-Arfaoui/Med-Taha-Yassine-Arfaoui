@@ -1,26 +1,9 @@
-# 💫 About Me
 
 <div align="center">
 
-🔭 **I'm currently working on**  
-3rd-year IT student at ESPRIT, passionately building everything from enterprise networks in GNS3 to full-stack applications.
+# Hi 👋
 
-👯 **I'm looking to collaborate on**  
-Any crazy innovative idea that could turn into a real startup — especially projects mixing **networking + AI/ML**!
-
-🌱 **I'm currently learning**  
-Data Science, Machine Learning, Deep Learning, and AI (yes, I'm literally turning coffee into neural networks).
-
-💬 **Ask me about**  
-Linux, Java, ML/DL/AI, Data Science, HTML/CSS/JS — or the time I made a full-mesh OSPF network cry in GNS3 at 3 a.m.
-
-⚡ **Fun fact**  
-I spent three weeks perfectly configuring OSPF, ACLs, GRE tunnels, and Prometheus…  
-only for my neural network to analyze it once and say:  
-*"Bro, your packets are sad. Here's a better routing table."*  
-
-Now the AI is the real admin and I'm just the guy bringing it coffee.  
-I got replaced by my own project. Send help (and more RAM). 😂
+I’m Yassine, a 3rd-year IT student at ESPRIT who builds enterprise networks in GNS3, full-stack apps, and writes a lot of Java, C, and C++ while my neural networks slowly take over my job.
 
 </div>
 
