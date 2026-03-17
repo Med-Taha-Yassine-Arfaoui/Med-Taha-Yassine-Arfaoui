@@ -1,7 +1,28 @@
-# 💫 About Me:
-<div align="center"><br><br>🔭 **I'm currently working on**  <br>3rd-year IT student at ESPRIT, building all kinds of projects I love (from enterprise networks in GNS3 to full-stack apps)<br><br>👯 **I'm looking to collaborate on**  <br>Any crazy innovative idea that could actually become a startup — networking + AI/ML sounds like the perfect combo!<br><br>🌱 **I'm currently learning**  <br>Data Science, Machine Learning, Deep Learning and AI (basically turning coffee into models)<br><br>💬 **Ask me about**  <br>Linux, Java, ML/DL/AI, Data Science, HTML/CSS/JS — or how I once made a full-mesh OSPF network cry in GNS3 at 3 a.m.<br><br>⚡ **Fun fact**  <br>I spent 3 weeks building the perfect enterprise network with OSPF, ACLs, GRE tunnels and Prometheus…  <br>only for my neural network to look at it once and say:  <br>“Bro your packets are sad, here’s a better routing table.”  <br><br>Now the AI is the real admin and I’m just the guy who brings it coffee.  <br>I got replaced by my own project. Send help (and more RAM).<br><br></div>
+# 💫 About Me
 
+<div align="center">
 
+🔭 **I'm currently working on**  
+3rd-year IT student at ESPRIT, passionately building everything from enterprise networks in GNS3 to full-stack applications.
+
+👯 **I'm looking to collaborate on**  
+Any crazy innovative idea that could turn into a real startup — especially projects mixing networking with AI/ML!
+
+🌱 **I'm currently learning**  
+Data Science, Machine Learning, Deep Learning, and AI (yes, I'm literally turning coffee into neural networks).
+
+💬 **Ask me about**  
+Linux, Java, ML/DL/AI, Data Science, HTML/CSS/JS — or the time I made a full-mesh OSPF network cry in GNS3 at 3 a.m.
+
+⚡ **Fun fact**  
+I spent three weeks perfectly configuring OSPF, ACLs, GRE tunnels, and Prometheus...  
+only for my neural network to analyze it once and say:  
+*"Bro, your packets are sad. Here's a better routing table."*  
+
+Now the AI is the real admin and I'm just the guy bringing it coffee.  
+I got replaced by my own project. Send help (and more RAM). 😂
+
+</div>
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Med-Taha-Yassine-Arfaoui) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/yassine.arfaoui.409893/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/yassinearfaoui_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yassine-arfaoui-b24531388/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Late-Sympathy-5854/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/4589839) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yassinearfaoui689@gmail.com) 
 
